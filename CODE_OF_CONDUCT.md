@@ -1,94 +1,62 @@
-# Citizen Code of Conduct
+## 用户行为守则
 
-## 1. Purpose
+# 1. 目的
+Fdisui.GitHub.Io 的目标是为更多人的讨论创造一个美好的环境
 
-A primary goal of Fdisui.GitHub.Io is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+# 2. 开放 [来源/文化/技术] 公民身份
+该行为守则的一个补充目标是通过鼓励参与者认识到和加强我们的行为与其对我们社区的影响之间的关系，增加开放[来源/文化/技术]公民身份。
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+社区反映了它们存在的社会，积极行动对于消除社会中存在的多种形式的不平等和滥用权力至关重要。
 
-We invite all those who participate in Fdisui.GitHub.Io to help us create safe and positive experiences for everyone.
+如果您看到有人正在作出额外的努力，以确保我们的社区是欢迎，友好，并鼓励所有参与者作出最大程度的贡献，我们想知道。
 
-## 2. Open [Source/Culture/Tech] Citizenship
+# 3. 预期行为
+所有社区成员预期和要求下列行为：
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+以真实和积极的方式参与。这样做，你为这个社区的健康和长寿做出了贡献。
+在言行中要尊重和尊重。
+在冲突前尝试协作。
+避免贬低、歧视或骚扰行为和言论。
+注意周围的环境和参与者。如果您注意到危险情况、遇险者或违反本行为准则的行为，提醒社区领袖，即使他们看起来无关紧要。
+请记住，社区活动场地可以与公众共享：请尊重这些地方的所有顾客。
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+# 4. 不可接受的行为
+以下行为被视为骚扰，在我们的社区中是不可接受的：
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+针对他人的暴力、暴力威胁或暴力语言。
+性别歧视、种族主义、仇视同性恋、变性、能干或其他歧视性的笑话和语言。
+发布或显示色情或暴力材料。
+发布或威胁发布其他人的个人识别信息（"doxing"）。
+个人侮辱，特别是与性别、性取向、种族、宗教或残疾有关的侮辱。
+不适当的摄影或录音。
+不适当的身体接触。在触摸某人之前，你应该征得他们的同意。
+不受欢迎的性关注。这包括，性化的评论或笑话;不适当的触摸，摸索，和不受欢迎的性进展。
+故意恐吓、跟踪或跟踪（在线或亲自）。
+倡导或鼓励上述任何行为。
+社区活动持续中断，包括讲座和演讲。
+# 5. 武器政策
+Fdisui.GitHub.Io 活动、社区空间或本行为守则范围所涵盖的其他空间不允许携带任何武器。武器包括但不限于枪支、爆炸物（包括烟花）和用于狩猎或展示的大型刀具，以及用于伤害或伤害他人的任何其他物品。任何人如看到拥有其中一件物品，将被要求立即离开，并且只能在没有武器的情况下返回。社区成员应进一步遵守有关此事的所有州和地方法律。
 
-## 3. Expected Behavior
+# 6. 不可接受的行为的后果
+任何社区成员，包括提案国和具有决策权的人的不可接受的行为都是不能容忍的。
 
-The following behaviors are expected and requested of all community members:
+任何被要求停止不可接受的行为的人都应立即遵守。
 
- * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
- * Exercise consideration and respect in your speech and actions.
- * Attempt collaboration before conflict.
- * Refrain from demeaning, discriminatory, or harassing behavior and speech.
- * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
- * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+如果社区成员从事不可接受的行为，社区组织者可以采取他们认为适当的任何行动，直至并包括在没有警告的情况下暂时禁止或永久驱逐出社区（如果发生付费活动，则不予退款）。
 
-## 4. Unacceptable Behavior
+# 7. 报告准则
+如果您受到或目睹不可接受的行为，或有任何其他顾虑，请尽快通知社区组织者。.
 
-The following behaviors are considered harassment and are unacceptable within our community:
+此外，社区组织者可以帮助社区成员与当地执法部门互动，或以其他方式帮助那些经历不可接受的行为的人感到安全。在当面活动方面，组织者还将根据遇险者的愿望提供护送。
 
- * Violence, threats of violence or violent language directed against another person.
- * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
- * Posting or displaying sexually explicit or violent material.
- * Posting or threatening to post other people's personally identifying information ("doxing").
- * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
- * Inappropriate photography or recording.
- * Inappropriate physical contact. You should have someone's consent before touching them.
- * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
- * Deliberate intimidation, stalking or following (online or in person).
- * Advocating for, or encouraging, any of the above behavior.
- * Sustained disruption of community events, including talks and presentations.
+# 8. 解决冤情
+如果您认为自己被错误地或不公平地指控违反了本行为准则，您应该简明扼要地说明您的申诉。您的申诉将按照我们现有的治理政策处理。
 
-## 5. Weapons Policy
+# 9. 范围
+我们期望所有社区参与者（贡献者、付费或其他参与者、赞助商和其他客人）在所有社区场所（在线和亲自）以及与社区业务相关的所有一对一通信中遵守本行为准则。
 
-No weapons will be allowed at Fdisui.GitHub.Io events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+这种行为守则及其相关程序也适用于在社区活动范围之外发生的不可接受的行为，因为这种行为有可能对社区成员的安全和福祉产生不利影响。
 
-## 6. Consequences of Unacceptable Behavior
-
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
-
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
-
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
-
-## 7. Reporting Guidelines
-
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. .
-
-
-
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
-
-## 8. Addressing Grievances
-
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify  with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. 
-
-
-
-## 9. Scope
-
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
-
-This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
-
-## 10. Contact info
-
-
-
-## 11. License and attribution
-
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
-
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
-
-_Revision 2.3. Posted 6 March 2017._
-
-_Revision 2.2. Posted 4 February 2016._
-
-_Revision 2.1. Posted 23 June 2014._
-
-_Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
+# 10. 联系信息
+QQ：2653764467
+邮箱：a2653764467@163.com
